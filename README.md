@@ -71,5 +71,7 @@ Melalui dikali dengan 0.034/2 karena kecepatan gelombang ultrasonik dalam cm/s a
 Kemudian terdapat pengondisian apabila nilai distance kurang dari 3 maka terdapat peringatan dan agar nilai dapat diikirim melalui protokol mqtt perlu di konversi menjadi char dengan tipe array dengan perintah char buffer[10],  dtostrf(distance ,0, 0, buffer). 
 Artinya nilai variabel pennampung pengukuran sensor agar bisa dikirimkan perlu dijadikan satu paket dalam char. 
 
-
+### Datalog 
+python dengan mongodb server sebagai subscriber
+https://gist.github.com/fauziacharuna/7e643685b2f646c93001a156856d37e8.js
 
