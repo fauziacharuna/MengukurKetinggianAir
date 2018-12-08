@@ -73,4 +73,4 @@ Artinya nilai variabel pennampung pengukuran sensor agar bisa dikirimkan perlu d
 
 ### Datalog 
 python dengan mongodb server sebagai subscriber
-<script src="https://gist.github.com/fauziacharuna/7e643685b2f646c93001a156856d37e8.js"></script>
+https://gist.github.com/fauziacharuna/7e643685b2f646c93001a156856d37e8.js
