@@ -19,6 +19,12 @@ Visual Studio Code, Notepad ++ (Editor text untuk source code website)
 Potainer.io (Docker GUI) untuk website
 ```
 
+### Output Sistem 
+![alt text](https://github.com/fauziacharuna/MengukurKetinggianAir/blob/master/image/datalog.png)
+![alt text](https://github.com/fauziacharuna/MengukurKetinggianAir/blob/master/image/grafik.png)
+
+
+
 ### Penjelasan Program 
 ```
 1. Tahap inisialisasi : 
